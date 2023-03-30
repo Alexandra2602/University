@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Exemplificare innerHTML si Date() </title>
+        <meta  charset="utf-8">
+        <meta  name="viewport"  content="width=device-width,  intial-scale=1">
+<script>
+function aratadata_in_h1()
+{
+document.getElementById("id_h1").innerHTML=Date();
+}
+function aratadata_in_div()
+{
+document.getElementById("id_div").innerHTML=Date();
+}
+</script>
+</head>
+<body>
+<h1 id="id_h1" onclick="aratadata_in_h1()">Sunt un H1.Da click pe mine ca sa vezi data. </h1>
+<div id="id_div" onmouseover="aratadata_in_div()">Sunt un div. Treci cu cursorul peste mine ca sa vezi data.</div>
+</body>
+</html>
+

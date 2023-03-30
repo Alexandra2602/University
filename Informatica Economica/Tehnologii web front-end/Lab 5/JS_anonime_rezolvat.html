@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Functii anonime JS</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script>
+
+//varianta 1 anonima
+var x= function(a,b)
+{
+return (a+b);
+}
+var rezultat=x(3,4);
+
+var m=7,n=8;
+
+//varianta 1 anonima
+var rez1=(function()
+{
+return 159/3;
+}());
+
+var rez2=(function(x,y)
+{
+return (x+y);
+}
+(m,n)
+);
+
+function f1()
+{
+displayer =document.getElementById("displayer");
+
+displayer.innerHTML="rezultat prima functie= " + rezultat + " , a doua functie rez1= " + rez1 + " ,a treia functie rez2= " +rez2;
+}
+
+</script>
+</head>
+
+<body onLoad="f1()">
+<div id="displayer">
+
+</div>
+</body>
+</html>

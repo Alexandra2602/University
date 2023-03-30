@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Dimensiuni Calculate pentru CSS; Resize Effect</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+:root
+{
+--cul: calc(255-75);
+}
+.div1{
+	width: calc(20vw-10px);
+	height:calc(20hw-10px);
+	margin:auto;
+	border:1px solid magenta;
+}
+
+.div2
+{
+font-size:calc(2vw);
+border:1px solid blue;
+}
+.div3
+{
+color:rgb(var(--cul),0,0);
+}
+.div4
+{
+font-size: calc (2vw);
+border:calc(2em) dashed gray;
+}
+
+</style>
+</head>
+
+<body>
+<div class="div1"> Container cu dimensiuni de (20vw-10px)* (20hw-10px) </div>
+<div class="div2"> Text cu marimea caracterelor 2% din vw(resize efect) </div>
+<div class="div3"> text cu culoarea definita prin variabila cul </div>
+<div class="div4"> text cu font calculat si border dependent de marimea caracterelor (resize efect) </div>
+
+Redimensionati portul de vizualizare
+Observati efectele
+</body>
+</html>

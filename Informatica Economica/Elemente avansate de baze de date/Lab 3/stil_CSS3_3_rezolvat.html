@@ -1,0 +1,42 @@
+<!DOCTYPE  html>
+<html lang="en">
+<head>
+        <title> Exemplificare stilizare conteinere 2 (class/id) </title>
+        <meta  charset="utf-8">
+        <meta  name="viewport"  content="width=device-width,  intial-scale=1">
+<style>
+div
+{
+border:25px dashed #0099FF;
+padding:35px;
+background-image:url('sigla.gif');
+background-repeat:no repeat;
+background-position:left;
+}
+#div1
+{
+background-origin:border_box;
+}
+#div2
+{
+background-origin:padding_box;
+}
+#div3
+{
+background-origin:content-box;
+}
+div.plin
+{background-image: url(sigla.gif);
+background-repeat:no-repeat;
+background-size:100%;
+background-origin: content-box;
+}
+</style>
+</head>
+<body>
+<div id="div1"> Sunt in bordura </div><p>
+<div id="div2"> Sunt in padding </div><p>
+<div id="div3">Sunt in continut </div><p>
+<div class="plin"> Sunt in continut pe 100% dimensiune </<div>
+</body>
+</html>

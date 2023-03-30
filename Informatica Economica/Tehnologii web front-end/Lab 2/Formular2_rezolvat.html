@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title> Exemplificari campuri HTML5 </title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, intial-scale=1">
+</head>
+
+<body>
+
+<form action="scriptServer.php" method="get">
+<fieldset>
+<legend> Detalii personale </legend>
+	Nume <input type="text" name="nume" size="25" maxlenght="50" placeholder="nume" required="required" > <p>
+	Prenume  <input type="text" name="prenume" size="25" maxlenght="50" placeholder="prenume" required="required" > <p>
+	Email  <input type="email" name="email" size="25"  placeholder="email" required="required" > <p>
+	Parola <input type="password" name="parola" size="25" required="required" ><p>
+	Introduceti adresa dvs. <textarea name="adresa" rows="5" cols="50" ></textarea><p>
+</fieldset>
+
+
+<fieldset>
+<legend> Detalii rezervare: </legend>
+	Data intrarii <input type="date" name="intrare" ><p>
+	Data plecarii <input type="date" name="plecare" ><p>
+	
+Data rezervarii este: <input type="datetime" name="local" > data locala <p>
+Luna rezervarii este: <input type="month" name="luna" ><p>
+</fieldset>
+<input type="submit" name="trimite" value="Rezerva">
+<input type="reset" value="Anuleaza">
+</form>
+</body>
+</html>

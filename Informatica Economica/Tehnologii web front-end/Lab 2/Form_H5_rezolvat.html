@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title> Exemplificare campuri input HTML5</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, intial-scale=1">
+
+</head>
+<body>
+<form action="script.php" method="get" oninput="ales.value=parseInt(alege.value)">
+Exemplificare campuri input HTML5
+<p>
+Nume <input type="text" name="prenume" size="25" maxlength="50" placeholder="nume prenume" required="required" /> Camp obligatoriu <p>
+
+<i> Browser folosit frecvent </i> <input list="tip" name="browser"> <sub>Camp de tip datalist </sub> <p>
+<datalist id="tip">
+	<option value="Chrome">
+	<option value="Firefox">
+	<option value="IE">
+	<option value="Safari">
+	<option value="Altul">
+</datalist><p>
+
+Cantitatea (intre 1 si 9) <input type="number" name="cantitate" min="1" max="9" ><p>
+
+1<input type="range" id="alege" min="1" max="9" value="5">9<br>
+&nbsp; Am ales <input type="text" name="ales" size="3"><p>
+
+Eveniment <br>
+Data <input type="date" name="data_eveniment" />Camp de tip date <p>
+si ora <input type="datetime" name="data_ora_eveniment" />Camp de tip datetime <p>
+
+Contact: <br>
+Email <input type="email" name="adresa email" />Camp de tip email <p>
+Telefon<input type="tel" name="telefon" />Camp de tip tel <p>
+Pagina web <input type="url" name="adresa_site" />Camp de tip url <p>
+
+<input type="color" name="culoare" /> Camp de tip color <p>
+
+<input type="submit" name="formH5" value="Trimite" />
+
+</form>
+</body>
+</html>

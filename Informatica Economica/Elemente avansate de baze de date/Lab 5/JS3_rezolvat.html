@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Exemplificare legaturi externe </title>
+	<meta  charset="utf-8">
+    <meta  name="viewport"  content="width=device-width,  intial-scale=1">
+<script>
+function schimba_link()
+{
+document.getElementById('link').innerHTML="Eu merg la UBB intr-o fereastra noua";
+document.getElementById('link').href="https://ubbcluj.ro";
+document.getElementById('link').target="_blank";
+
+}
+</script>
+</body>
+<a id="link" href="https://econ.ubbcluj.ro"> Eu merg la FSEGA in aceeasi fereastra</a><p>
+<input type="button" onclick="schimba_link()" value="schimba link">
+</body>
+</html>
