@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1611776259 source:c:\users\maria\onedrive\desktop\facultate\an 2 semestrul 1 ie\algoritmi si structuri de date\laboratoare rezolvate\lab2-pb2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LISTA.h"
+
+1611775427 source:c:\users\maria\onedrive\desktop\facultate\an 2 semestrul 1 ie\algoritmi si structuri de date\laboratoare rezolvate\lab2-pb2\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"LISTA.h"
+
+1611775249 c:\users\maria\onedrive\desktop\facultate\an 2 semestrul 1 ie\algoritmi si structuri de date\laboratoare rezolvate\lab2-pb2\lista.h
+

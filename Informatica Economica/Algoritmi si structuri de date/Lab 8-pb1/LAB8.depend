@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1607589482 source:c:\users\maria\onedrive\desktop\facultate\an 2 semestrul 1 ie\algoritmi si structuri de date\laboratoare rezolvate\lab8\main.c
+	<stdio.h>
+	<stdlib.h>
+	"greedy.h"
+
+1607589356 source:c:\users\maria\onedrive\desktop\facultate\an 2 semestrul 1 ie\algoritmi si structuri de date\laboratoare rezolvate\lab8\greedy.c
+	<stdio.h>
+	<stdlib.h>
+	"greedy.h"
+
+1607589356 c:\users\maria\onedrive\desktop\facultate\an 2 semestrul 1 ie\algoritmi si structuri de date\laboratoare rezolvate\lab8\greedy.h
+
+1611701340 source:c:\users\maria\onedrive\desktop\laboratoare bune\lab8\main.c
+	<stdio.h>
+	<stdlib.h>
+	"greedy.h"
+
+1607589356 c:\users\maria\onedrive\desktop\laboratoare bune\lab8\greedy.h
+
+1607589356 source:c:\users\maria\onedrive\desktop\laboratoare bune\lab8\greedy.c
+	<stdio.h>
+	<stdlib.h>
+	"greedy.h"
+

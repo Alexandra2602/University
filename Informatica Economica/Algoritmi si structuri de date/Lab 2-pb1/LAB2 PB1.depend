@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1603358586 source:c:\users\marianalexandra\desktop\lab2 pb1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hash.h"
+
+1603358347 source:c:\users\marianalexandra\desktop\lab2 pb1\hash.c
+	<stdio.h>
+	<stdlib.h>
+	"hash.h"
+
+1603358347 c:\users\marianalexandra\desktop\lab2 pb1\hash.h
+
+1603354988 source:c:\users\maria\onedrive\desktop\facultate\an 2 semestrul 1 ie\algoritmi si structuri de date\laboratoare rezolvate\lab2 pb1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hash.h"
+
+1603354748 c:\users\maria\onedrive\desktop\facultate\an 2 semestrul 1 ie\algoritmi si structuri de date\laboratoare rezolvate\lab2 pb1\hash.h
+
+1603354748 source:c:\users\maria\onedrive\desktop\facultate\an 2 semestrul 1 ie\algoritmi si structuri de date\laboratoare rezolvate\lab2 pb1\hash.c
+	<stdio.h>
+	<stdlib.h>
+	"hash.h"
+
+1611769259 source:c:\users\maria\onedrive\desktop\facultate\an 2 semestrul 1 ie\algoritmi si structuri de date\laboratoare rezolvate\lab2-pb1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1603354748 c:\users\maria\onedrive\desktop\facultate\an 2 semestrul 1 ie\algoritmi si structuri de date\laboratoare rezolvate\lab2-pb1\hash.h
+
+1603354748 source:c:\users\maria\onedrive\desktop\facultate\an 2 semestrul 1 ie\algoritmi si structuri de date\laboratoare rezolvate\lab2-pb1\hash.c
+	<stdio.h>
+	<stdlib.h>
+	"hash.h"
+
+1611770560 source:c:\users\maria\onedrive\desktop\laboratoare bune\lab2-pb1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hash.h"
+
+1603354748 c:\users\maria\onedrive\desktop\laboratoare bune\lab2-pb1\hash.h
+
+1603354748 source:c:\users\maria\onedrive\desktop\laboratoare bune\lab2-pb1\hash.c
+	<stdio.h>
+	<stdlib.h>
+	"hash.h"
+

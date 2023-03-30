@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1607416407 source:c:\users\maria\onedrive\desktop\facultate\an 2 semestrul 1 ie\algoritmi si structuri de date\laboratoare rezolvate\lab6\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1607415079 source:c:\users\maria\onedrive\desktop\facultate\an 2 semestrul 1 ie\algoritmi si structuri de date\laboratoare rezolvate\lab6\sortari.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	"sortari.h"
+
+1607415068 c:\users\maria\onedrive\desktop\facultate\an 2 semestrul 1 ie\algoritmi si structuri de date\laboratoare rezolvate\lab6\sortari.h
+
+1607415469 source:c:\users\maria\onedrive\desktop\facultate\an 2 semestrul 1 ie\algoritmi si structuri de date\laboratoare rezolvate\lab6\array_io.c
+	<stdio.h>
+	<stdlib.h>
+	"array_io.h"
+
+1607415364 c:\users\maria\onedrive\desktop\facultate\an 2 semestrul 1 ie\algoritmi si structuri de date\laboratoare rezolvate\lab6\array_io.h
+
+1607416407 source:c:\users\maria\onedrive\desktop\facultate\an 2 semestrul 1 ie\algoritmi si structuri de date\laboratoare rezolvate\lab5-6\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1607416650 source:c:\users\maria\onedrive\desktop\facultate\an 2 semestrul 1 ie\algoritmi si structuri de date\laboratoare rezolvate\lab5-6\sortari.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	"sortari.h"
+
+1607416072 c:\users\maria\onedrive\desktop\facultate\an 2 semestrul 1 ie\algoritmi si structuri de date\laboratoare rezolvate\lab5-6\sortari.h
+
+1607415469 source:c:\users\maria\onedrive\desktop\facultate\an 2 semestrul 1 ie\algoritmi si structuri de date\laboratoare rezolvate\lab5-6\array_io.c
+	<stdio.h>
+	<stdlib.h>
+	"array_io.h"
+
+1607415364 c:\users\maria\onedrive\desktop\facultate\an 2 semestrul 1 ie\algoritmi si structuri de date\laboratoare rezolvate\lab5-6\array_io.h
+

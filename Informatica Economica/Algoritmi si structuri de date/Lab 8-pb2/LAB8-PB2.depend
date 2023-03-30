@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1606985641 source:c:\users\maria\onedrive\desktop\facultate\an 2 semestrul 1 ie\algoritmi si structuri de date\laboratoare rezolvate\lab8-pb2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dame.h"
+
+1606985735 c:\users\maria\onedrive\desktop\facultate\an 2 semestrul 1 ie\algoritmi si structuri de date\laboratoare rezolvate\lab8-pb2\dame.h
+
+1606986338 source:c:\users\maria\onedrive\desktop\facultate\an 2 semestrul 1 ie\algoritmi si structuri de date\laboratoare rezolvate\lab8-pb2\dame.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"dame.h"
+
+1611741846 source:c:\users\maria\onedrive\desktop\laboratoare bune\lab8-pb2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1606985735 c:\users\maria\onedrive\desktop\laboratoare bune\lab8-pb2\dame.h
+
+1611741885 source:c:\users\maria\onedrive\desktop\laboratoare bune\lab8-pb2\dame.c
+

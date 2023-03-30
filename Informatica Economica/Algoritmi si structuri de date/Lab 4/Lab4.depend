@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1611691030 source:c:\users\maria\onedrive\desktop\lab4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbore_rb.h"
+
+1611691029 source:c:\users\maria\onedrive\desktop\lab4\arbore_rb.c
+	<stdio.h>
+	<stdlib.h>
+	"arbore_rb.h"
+
+1611691029 c:\users\maria\onedrive\desktop\lab4\arbore_rb.h
+
+1611691030 source:c:\users\maria\onedrive\desktop\facultate\an 2 semestrul 1 ie\algoritmi si structuri de date\laboratoare bune\lab4 ;;;\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbore_rb.h"
+
+1611691029 c:\users\maria\onedrive\desktop\facultate\an 2 semestrul 1 ie\algoritmi si structuri de date\laboratoare bune\lab4 ;;;\arbore_rb.h
+
+1611691029 source:c:\users\maria\onedrive\desktop\facultate\an 2 semestrul 1 ie\algoritmi si structuri de date\laboratoare bune\lab4 ;;;\arbore_rb.c
+	<stdio.h>
+	<stdlib.h>
+	"arbore_rb.h"
+

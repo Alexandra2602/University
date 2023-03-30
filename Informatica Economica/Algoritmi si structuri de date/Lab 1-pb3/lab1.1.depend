@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1611786553 source:c:\users\maria\onedrive\desktop\lab1.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"coada.h"
+
+1611786553 c:\users\maria\onedrive\desktop\lab1.1\coada.h
+
+1611786553 source:c:\users\maria\onedrive\desktop\lab1.1\coada.c
+	"coada.h"
+	<stdio.h>
+	<stdlib.h>
+

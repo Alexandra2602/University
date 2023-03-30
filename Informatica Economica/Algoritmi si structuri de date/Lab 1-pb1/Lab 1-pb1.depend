@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1611787368 source:c:\users\maria\onedrive\desktop\laboratoare bune\lab 1-pb1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1611787368 c:\users\maria\onedrive\desktop\laboratoare bune\lab 1-pb1\lista.h
+
+1611787368 source:c:\users\maria\onedrive\desktop\laboratoare bune\lab 1-pb1\lista.c
+	"lista.h"
+	<stdlib.h>
+	<stdio.h>
+
