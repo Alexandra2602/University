@@ -1,4 +1,0 @@
-C:\Users\maria\OneDrive\Desktop\Facultate\An 3 semestrul 1 IE\Medii de programare si dezvoltare\Laboratoare\Lab10\Marian_Alexandra_Lab10\Marian_Alexandra_Lab10.Android\obj\Debug\110\MonoAndroid,Version=v11.0.AssemblyAttributes.cs
-C:\Users\maria\OneDrive\Desktop\Facultate\An 3 semestrul 1 IE\Medii de programare si dezvoltare\Laboratoare\Lab10\Marian_Alexandra_Lab10\Marian_Alexandra_Lab10.Android\obj\Debug\110\build.props
-C:\Users\maria\OneDrive\Desktop\Facultate\An 3 semestrul 1 IE\Medii de programare si dezvoltare\Laboratoare\Lab10\Marian_Alexandra_Lab10\Marian_Alexandra_Lab10.Android\obj\Debug\110\adb.props
-C:\Users\maria\OneDrive\Desktop\Facultate\An 3 semestrul 1 IE\Medii de programare si dezvoltare\Laboratoare\Lab10\Marian_Alexandra_Lab10\Marian_Alexandra_Lab10.Android\obj\Debug\110\Marian_Alexandra_Lab10.Android.csproj.AssemblyReference.cache
